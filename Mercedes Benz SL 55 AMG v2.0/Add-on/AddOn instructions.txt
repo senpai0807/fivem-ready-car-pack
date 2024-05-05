@@ -1,0 +1,13 @@
+[ADD-ON METHOD instructions] - using OpenIV
+
+1. Go to \Grand Theft Auto V\mods\update\x64\dlcpacks then drag and drop the folder 'benzsl55' into the directory
+2. Go to \Grand Theft Auto V\update\update.rpf\common\data then right click on dlclist.xml, click Edit and add the following line: <Item>dlcpacks:/benzsl55/</Item>
+3. Type 'benzsl55' when spawning vehicle in a menu such as 'Menyoo' or 'Vehicle Spawner Menu'
+
+Some options:
+
+Menyoo
+https://www.gta5-mods.com/scripts/menyoo-pc-sp
+
+Add-On Vehicle Spawner Menu
+https://www.gta5-mods.com/scripts/add-on-vehicle-spawner
